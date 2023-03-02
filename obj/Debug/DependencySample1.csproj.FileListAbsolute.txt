@@ -1,0 +1,7 @@
+C:\Nasreen\AZ204\Projects\DependencySample1\bin\Debug\DependencySample1.exe.config
+C:\Nasreen\AZ204\Projects\DependencySample1\bin\Debug\DependencySample1.exe
+C:\Nasreen\AZ204\Projects\DependencySample1\bin\Debug\DependencySample1.pdb
+C:\Nasreen\AZ204\Projects\DependencySample1\obj\Debug\DependencySample1.csproj.AssemblyReference.cache
+C:\Nasreen\AZ204\Projects\DependencySample1\obj\Debug\DependencySample1.csproj.CoreCompileInputs.cache
+C:\Nasreen\AZ204\Projects\DependencySample1\obj\Debug\DependencySample1.exe
+C:\Nasreen\AZ204\Projects\DependencySample1\obj\Debug\DependencySample1.pdb
